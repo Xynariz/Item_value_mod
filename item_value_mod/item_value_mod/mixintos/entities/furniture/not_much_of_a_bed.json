@@ -1,12 +1,7 @@
 {
-	"components" : {
-		"unit_info" : {
-			"name" : "Modded Mean bed"
-		}
-	},
 	"entity_data" : {
 		"stonehearth:net_worth" : {
-			"value_in_gold" : 2500
+			"value_in_gold" : 250000
 		}
 	}
 }
